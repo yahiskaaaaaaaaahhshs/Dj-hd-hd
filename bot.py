@@ -8,8 +8,8 @@ from flask import Flask
 from datetime import datetime
 
 # Bot configuration
-BOT_TOKEN = "8531959574:AAFxoDFV5CE7e0yyEHBwxCssWfrsXkBZgqU"
-OWNER_ID = 7310898934
+BOT_TOKEN = "8531959574:AAGfNISvTHtlSO2LOYdKsVo6l56N-e9Sz-o"
+OWNER_ID = 7904483885
 
 # Initialize bot
 bot = telebot.TeleBot(BOT_TOKEN)

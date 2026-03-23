@@ -8,7 +8,7 @@ from flask import Flask
 from datetime import datetime
 
 # Bot configuration
-BOT_TOKEN = "8531959574:AAGfNISvTHtlSO2LOYdKsVo6l56N-e9Sz-o"
+BOT_TOKEN = "8531959574:AAHZ2znCqPyApBHmu4oOcASnkgdTq4ImlSo"
 OWNER_ID = 7904483885
 
 # Initialize bot
